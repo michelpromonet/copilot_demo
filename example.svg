@@ -1,11 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Generator: Adobe Illustrator 25.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg xml:space="preserve" viewBox="0 0 2368 768" overflow="visible" y="0px" xmlns:synoptic="http://thalesgroup.com/gts/ics/synoptic" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.2" x="0px" baseProfile="tiny">
-   
-   <defs id="symbols">
-      <image synoptic:animationClassList="SaeRouteLandmarkAnimator:ATS" xlink:href="file:../../../symbols/sae/non_electrified_repiti.svg" id="NonEletrifiedRepiti"/>
-   </defs>
-   
    <g id="background">
       <g id="ligne">
           <!-- fading esthetique pour les blocs d'extrémité -->
@@ -387,18 +382,6 @@
          <polygon class="shadow-right" points="1264,420.1 1264,451.1 1280,435.6    " fill="none"/>
       </g>
    </g>
-   <g id="bouton-repere">
-      <use synoptic:entityId="ETOI_REPITI_D9" xlink:href="#NonEletrifiedRepiti" xlink:type="simple" xlink:show="embed" transform="translate(650.9 293.6)"/>
-      <use synoptic:entityId="ETOI_REPITI_E1" xlink:href="#NonEletrifiedRepiti" xlink:type="simple" xlink:show="embed" transform="translate(838.5 293.6)"/>
-      <use synoptic:entityId="ETOI_REPITI_E2" xlink:href="#NonEletrifiedRepiti" xlink:type="simple" xlink:show="embed" transform="translate(838.5 410.6)"/>
-      <use synoptic:entityId="ETOI_REPITI_E3" xlink:href="#NonEletrifiedRepiti" xlink:type="simple" xlink:show="embed" transform="translate(1140.9 293.6)"/>
-      <use synoptic:entityId="ETOI_REPITI_E4" xlink:href="#NonEletrifiedRepiti" xlink:type="simple" xlink:show="embed" transform="translate(1157.9 410.6)"/>
-      <use synoptic:entityId="ETOI_REPITI_E5" xlink:href="#NonEletrifiedRepiti" xlink:type="simple" xlink:show="embed" transform="translate(1315 293.6)"/>
-      <use synoptic:entityId="ETOI_REPITI_E6" xlink:href="#NonEletrifiedRepiti" xlink:type="simple" xlink:show="embed" transform="translate(1335 410.6)"/>
-      <use synoptic:entityId="ETOI_REPITI_E7" xlink:href="#NonEletrifiedRepiti" xlink:type="simple" xlink:show="embed" transform="translate(1607.9 293.6)"/>
-      <use synoptic:entityId="ETOI_REPITI_A2" xlink:href="#NonEletrifiedRepiti" xlink:type="simple" xlink:show="embed" transform="translate(16074.9 410.6)"/>
-   </g>
- 
    <g id="contresens">
       <g id="cs-78-deco">
          <text x="448.034" id="element_11_" font-family="PT Sans" font-weight="bold" y="266.666" font-size="28px" fill="#6F6E6E">CS</text>
