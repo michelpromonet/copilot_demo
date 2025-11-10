@@ -1,0 +1,40 @@
+{
+    "en-GB": {
+        "IDS.ids-showcase.dashboard.name.alarms-banner.shortText": "Alarm Banner",
+        "IDS.ids-showcase.dashboard.name.alarms-list.shortText": "Alarm List",
+        "IDS.ids-showcase.dashboard.name.area-manager.shortText": "Area Responsibility Manager",
+        "IDS.ids-showcase.dashboard.name.histo-navigation.shortText": "History & Navigation",
+        "IDS.ids-showcase.dashboard.name.histo.shortText": "History",
+        "IDS.ids-showcase.dashboard.name.screenwall.shortText": "Screenwall",
+        "IDS.ids-showcase.dashboard.name.syn-alarms.shortText": "Synoptics & Alarm Banner",
+        "IDS.ids-showcase.dashboard.name.syn-navigation.shortText": "Synoptics & Navigation",
+        "IDS.ids-showcase.dashboard.name.syn-multi-navigation.shortText": "Multi Synoptics",
+        "IDS.ids-showcase.dashboard.name.real-line-view.shortText": "Real Synoptics",
+        "IDS.ids-showcase.dashboard.name.soc.shortText": "SOC",
+        "IDS.ids-showcase.dashboard.name.mcsyno.shortText": "Macro Commands & Syno",
+        "IDS.ids-showcase.dashboard.alarmmatrix.shortText": "Alarms Matrix",
+        "IDS.ids-showcase.dashboard.name.stations.shortText": "Stations",
+        "IDS.ids-showcase.dashboard.name.archive.shortText": "Archives",
+        "IDS.ids-showcase.dashboard.name.alarm-list.shortText": "Alarms List",
+        "IDS.ids-showcase.dashboard.name.trends.shortText": "Trends"
+    },
+    "fr-FR": {
+        "IDS.ids-showcase.dashboard.name.alarms-banner.shortText": "Alarmes",
+        "IDS.ids-showcase.dashboard.name.alarms-list.shortText": "Liste d'Alarmes",
+        "IDS.ids-showcase.dashboard.name.area-manager.shortText": "Délégation",
+        "IDS.ids-showcase.dashboard.name.histo-navigation.shortText": "Historique et Navigation",
+        "IDS.ids-showcase.dashboard.name.histo.shortText": "Historique",
+        "IDS.ids-showcase.dashboard.name.screenwall.shortText": "Mur d'Ecrans",
+        "IDS.ids-showcase.dashboard.name.syn-alarms.shortText": "Synoptiques et Alarmes",
+        "IDS.ids-showcase.dashboard.name.syn-navigation.shortText": "Synoptiques et Navigation",
+        "IDS.ids-showcase.dashboard.name.syn-multi-navigation.shortText": "Multi Synoptiques",
+        "IDS.ids-showcase.dashboard.name.real-line-view.shortText": "Synoptiques Réels",
+        "IDS.ids-showcase.dashboard.name.soc.shortText": "SOC",
+        "IDS.ids-showcase.dashboard.name.mcsyno.shortText": "Macro Commandes & Syno",
+        "IDS.ids-showcase.dashboard.alarmmatrix.shortText": "Matrice d'alarmes",
+        "IDS.ids-showcase.dashboard.name.stations.shortText": "Stations",
+        "IDS.ids-showcase.dashboard.name.archive.shortText": "Archives",
+        "IDS.ids-showcase.dashboard.name.alarm-list.shortText": "Liste d'Alarmes",
+        "IDS.ids-showcase.dashboard.name.trends.shortText": "Courbes"
+    }
+}
