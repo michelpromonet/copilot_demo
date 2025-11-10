@@ -1,4 +1,4 @@
-ETO.svg
+example.svg
 ===
 please group continous characters
 

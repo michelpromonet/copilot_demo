@@ -1,252 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<!-- Generator: Adobe Illustrator 25.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg xml:space="preserve" viewBox="0 0 2368 768" overflow="visible" y="0px" xmlns:synoptic="http://thalesgroup.com/gts/ics/synoptic" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.2" x="0px" baseProfile="tiny">
    <g id="background">
-      <g id="ligne">
-          <!-- fading esthetique pour les blocs d'extrémité -->
-         <defs>
-            <linearGradient id="fade-LEFT" gradientUnits="userSpaceOnUse"
-                              x1="588" y1="0" x2="840" y2="0">
-               <stop offset="0%"   stop-color="#78909C" stop-opacity="0"/>
-               <stop offset="100%" stop-color="#78909C" stop-opacity="1"/>
-            </linearGradient>
-         </defs>
-
-         <defs>
-            <linearGradient id="fade-RIGHT" gradientUnits="userSpaceOnUse"
-                              x1="1773" y1="0" x2="1512" y2="0">
-               <stop offset="0%"   stop-color="#78909C" stop-opacity="0"/>
-               <stop offset="100%" stop-color="#78909C" stop-opacity="1"/>
-            </linearGradient>
-         </defs>
-         <!-- end: fading esthetique pour les blocs d'extrémité -->
-
-         <!-- blocs d'extrémité -->         
-         <line x1="468" y1="318.5" x2="700" y2="318.5" stroke="url(#fade-LEFT)" stroke-width="15"/>
-         <line x1="468" y1="435.5" x2="887" y2="435.5" stroke="url(#fade-LEFT)" stroke-width="15"/>
-         <line x1="1656" y1="318.5" x2="1897" y2="318.5" stroke="url(#fade-RIGHT)" stroke-width="15"/>
-         <line x1="1656" y1="435.5" x2="1897" y2="435.5" stroke="url(#fade-RIGHT)" stroke-width="15"/>
-
-         <text x="564.613" font-family="PT Sans NarroQt" font-weight="bold" y="305.567" font-size="15px" fill="#78909C">1</text>
-         <text x="564.613" font-family="PT Sans NarroQt" font-weight="bold" y="422.566" font-size="15px" fill="#78909C">2</text>
+      <g>
+         <text x="1295.78" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">C</text>
+         <text x="1306.06" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">H</text>
+         <text x="1318.16" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">A</text>
+         <text x="1328.69" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">R</text>
+         <text x="1339.4" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">L</text>
+         <text x="1348.7" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">E</text>
+         <text x="1358.35" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">S</text>
+         <text x="1372.71" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">D</text>
+         <text x="1384.49" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">E</text>
+         <text x="1398.94" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">G</text>
+         <text x="1409.96" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">A</text>
+         <text x="1420.49" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">U</text>
+         <text x="1432.22" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">L</text>
+         <text x="1441.53" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">L</text>
+         <text x="1450.83" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">E</text>
+         <text x="1350.49" font-family="PT Sans" y="120.537" font-size="18px" fill="red">É</text>
+         <text x="1360.14" font-family="PT Sans" y="120.537" font-size="18px" fill="red">T</text>
+         <text x="1369.27" font-family="PT Sans" y="120.537" font-size="18px" fill="red">O</text>
+         <text x="1381.58" font-family="PT Sans" y="120.537" font-size="18px" fill="red">I</text>
+         <text x="1386.82" font-family="PT Sans" y="120.537" font-size="18px" fill="red">L</text>
+         <text x="1396.12" font-family="PT Sans" y="120.537" font-size="18px" fill="red">E</text>
       </g>
-      <g id="Charles_de_Gaulle&#xd;Étoile">
-         <text x="1322.48" font-family="PT Sans NarroQt" y="490.244" font-size="15px" fill="#AAAAAA">2</text>
-         <text x="1322.48" font-family="PT Sans NarroQt" y="274.442" font-size="15px" fill="#AAAAAA">1</text>
-         <text x="1295.78" font-family="PT Sans" y="98.5371" font-size="18px" fill="#AAAAAA">C</text>
-         <text x="1306.06" font-family="PT Sans" y="98.5371" font-size="18px" fill="#AAAAAA">H</text>
-         <text x="1318.16" font-family="PT Sans" y="98.5371" font-size="18px" fill="#AAAAAA">A</text>
-         <text x="1328.69" font-family="PT Sans" y="98.5371" font-size="18px" fill="#AAAAAA">R</text>
-         <text x="1339.4" font-family="PT Sans" y="98.5371" font-size="18px" fill="#AAAAAA">L</text>
-         <text x="1348.7" font-family="PT Sans" y="98.5371" font-size="18px" fill="#AAAAAA">E</text>
-         <text x="1358.35" font-family="PT Sans" y="98.5371" font-size="18px" fill="#AAAAAA">S</text>
-         <text x="1372.71" font-family="PT Sans" y="98.5371" font-size="18px" fill="#AAAAAA">D</text>
-         <text x="1384.49" font-family="PT Sans" y="98.5371" font-size="18px" fill="#AAAAAA">E</text>
-         <text x="1398.94" font-family="PT Sans" y="98.5371" font-size="18px" fill="#AAAAAA">G</text>
-         <text x="1409.96" font-family="PT Sans" y="98.5371" font-size="18px" fill="#AAAAAA">A</text>
-         <text x="1420.49" font-family="PT Sans" y="98.5371" font-size="18px" fill="#AAAAAA">U</text>
-         <text x="1432.22" font-family="PT Sans" y="98.5371" font-size="18px" fill="#AAAAAA">L</text>
-         <text x="1441.53" font-family="PT Sans" y="98.5371" font-size="18px" fill="#AAAAAA">L</text>
-         <text x="1450.83" font-family="PT Sans" y="98.5371" font-size="18px" fill="#AAAAAA">E</text>
-         <text x="1350.49" font-family="PT Sans" y="120.537" font-size="18px" fill="#AAAAAA">É</text>
-         <text x="1360.14" font-family="PT Sans" y="120.537" font-size="18px" fill="#AAAAAA">T</text>
-         <text x="1369.27" font-family="PT Sans" y="120.537" font-size="18px" fill="#AAAAAA">O</text>
-         <text x="1381.58" font-family="PT Sans" y="120.537" font-size="18px" fill="#AAAAAA">I</text>
-         <text x="1386.82" font-family="PT Sans" y="120.537" font-size="18px" fill="#AAAAAA">L</text>
-         <text x="1396.12" font-family="PT Sans" y="120.537" font-size="18px" fill="#AAAAAA">E</text>
-         <path id="quai-voyageur_1_" d="M1423.2,274.3h-88.4v-11.5l-1.3-1.3v14h91l0,0v-14l-1.3,1.3V274.3" fill="#AAAAAA"/>
-         <path id="quai-voyageur" d="M1334.8,480h88.4v11.5l1.3,1.3v-14h-91l0,0v14l1.3-1.3V480" fill="#AAAAAA"/>
-      </g>
-   </g>
-   <g id="cycle" visibility="hidden">
-      <g id="cycle-SP4-fleche">
-         <polyline stroke-miterlimit="10" id="element_49_" stroke="#326FB7" points="1400.5,419.6     1500.6,419.6 1541.5,302.6 1677.9,302.6   " stroke-width="2" fill="none"/>
-         <line fill="none" stroke-miterlimit="10" id="element_48_" x2="1541.5" stroke="#326FB7" x1="1400.1" y2="302.6" y1="302.6" stroke-width="2"/>
-         <g id="element_46_">
-            <image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAARCAYAAADkIz3lAAAACXBIWXMAAAsSAAALEgHS3X78AAAA GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAF9JREFUeNqM0EsKQCEIBdC6+3H2 9r+CZm7o4UAw83chKDkouYjoyFlNoJcOwz4qDF/IMKJihJGN8hjVByxGtxbFe7LDUUcJM3+YoLaj ohJalEKPQhihB2boghWS/AIMABnZIsbb1WmGAAAAAElFTkSuQmCC" x="1430" height="17" y="294" width="10"/>
-            <polygon points="1428.9,294.2 1428.9,311 1437.3,302.6    " fill="#326FB7"/>
-         </g>
-         <g id="element_45_">
-            <image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAARCAYAAADkIz3lAAAACXBIWXMAAAsSAAALEgHS3X78AAAA GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAEtJREFUeNpiZCAAdHV1z4BoRmIU 4VWIrAinQnRFWBViU4ShEJciFIX4FMEVElIEVkiMItJMJMmNJPmapHAkKWZIimuSUg+6YoAAAwDK URaV5adI0wAAAABJRU5ErkJggg==" x="1428" height="17" y="411" width="10"/>
-            <polygon points="1439.4,411.2 1439.4,428 1431,419.6    " fill="#326FB7"/>
-         </g>
-      </g>
-      <g id="cycle-SP4-bouton-deco">
-         <path d="M1594,224.6c-1.8,0-3.3-1.5-3.3-3.3v-29.5c0-1.8,1.5-3.3,3.3-3.3h60.5c1.8,0,3.3,1.5,3.3,3.3v29.5     c0,1.8-1.5,3.3-3.3,3.3H1594z" fill="#2D2D2D"/>
-         <path d="M1654.4,189.6c1.2,0,2.3,1,2.3,2.3v29.5c0,1.2-1,2.3-2.3,2.3H1594c-1.2,0-2.3-1-2.3-2.3v-29.5     c0-1.2,1-2.3,2.3-2.3H1654.4 M1654.4,187.6H1594c-2.4,0-4.3,1.9-4.3,4.3v29.5c0,2.4,1.9,4.3,4.3,4.3h60.5c2.4,0,4.3-1.9,4.3-4.3     v-29.5C1658.7,189.5,1656.8,187.6,1654.4,187.6L1654.4,187.6z" fill="#0071BC"/>
-         <path d="M1655.2,218.9c0,1.7-1.4,3.2-3.2,3.2h-55.7c-1.7,0-3.2-1.4-3.2-3.2v-24.7c0-1.7,1.4-3.2,3.2-3.2h55.7    c1.7,0,3.2,1.4,3.2,3.2V218.9z" fill="#0071BC"/>
-         <g transform="matrix(0.9958 0 0 1 1605.27 216.905)">
-            <text font-family="PT Sans NarroQt" font-weight="bold" font-size="28px" fill="#2D2D2D">S</text>
-         </g>
-         <g transform="matrix(0.9958 0 0 1 1617.51 216.905)">
-            <text font-family="PT Sans NarroQt" font-weight="bold" font-size="28px" fill="#2D2D2D">P</text>
-         </g>
-         <g transform="matrix(0.9958 0 0 1 1630.8 216.905)">
-            <text font-family="PT Sans NarroQt" font-weight="bold" font-size="28px" fill="#2D2D2D">4</text>
-         </g>
-      </g>
-      <rect x="1589.7" id="cycle-SP4-bouton" height="38" y="187.6" width="69" fill="#0071BC"/>
-      <g id="cycle-SPM4-fleche">
-         <polyline stroke-miterlimit="10" id="element_47_" stroke="#326FB7" points="1400.5,419.6     1500.6,419.6 1541.5,302.6 1677.9,302.6   " stroke-width="2" fill="none"/>
-         <line fill="none" stroke-miterlimit="10" id="element" x2="1541.5" stroke="#326FB7" x1="1400.1" y2="302.6" y1="302.6" stroke-width="2"/>
-         <g id="element_44_">
-            <image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAARCAYAAADkIz3lAAAACXBIWXMAAAsSAAALEgHS3X78AAAA GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAF9JREFUeNqM0EsKQCEIBdC6+3H2 9r+CZm7o4UAw83chKDkouYjoyFlNoJcOwz4qDF/IMKJihJGN8hjVByxGtxbFe7LDUUcJM3+YoLaj ohJalEKPQhihB2boghWS/AIMABnZIsbb1WmGAAAAAElFTkSuQmCC" x="1430" height="17" y="294" width="10"/>
-            <polygon points="1428.9,294.2 1428.9,311 1437.3,302.6    " fill="#326FB7"/>
-         </g>
-         <g id="element_43_">
-            <image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAARCAYAAADkIz3lAAAACXBIWXMAAAsSAAALEgHS3X78AAAA GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAEtJREFUeNpiZCAAdHV1z4BoRmIU 4VWIrAinQnRFWBViU4ShEJciFIX4FMEVElIEVkiMItJMJMmNJPmapHAkKWZIimuSUg+6YoAAAwDK URaV5adI0wAAAABJRU5ErkJggg==" x="1428" height="17" y="411" width="10"/>
-            <polygon points="1439.4,411.2 1439.4,428 1431,419.6    " fill="#326FB7"/>
-         </g>
-      </g>
-      <g id="cycle-SPM4-bouton-deco">
-         <path d="M1466.5,224.6c-1.8,0-3.3-1.5-3.3-3.3v-29.5c0-1.8,1.5-3.3,3.3-3.3h75.5c1.8,0,3.3,1.5,3.3,3.3v29.5     c0,1.8-1.5,3.3-3.3,3.3H1466.5z" fill="#2D2D2D"/>
-         <path d="M1541.9,189.6c1.2,0,2.3,1,2.3,2.3v29.5c0,1.2-1,2.3-2.3,2.3h-75.5c-1.2,0-2.3-1-2.3-2.3v-29.5     c0-1.2,1-2.3,2.3-2.3H1541.9 M1541.9,187.6h-75.5c-2.4,0-4.3,1.9-4.3,4.3v29.5c0,2.4,1.9,4.3,4.3,4.3h75.5c2.4,0,4.3-1.9,4.3-4.3     v-29.5C1546.2,189.5,1544.3,187.6,1541.9,187.6L1541.9,187.6z" fill="#0071BC"/>
-         <path d="M1542.7,218.9c0,1.7-1.4,3.2-3.2,3.2h-70.7c-1.7,0-3.2-1.4-3.2-3.2v-24.7c0-1.7,1.4-3.2,3.2-3.2h70.7    c1.7,0,3.2,1.4,3.2,3.2V218.9z" fill="#0071BC"/>
-         <g transform="matrix(0.9958 0 0 1 1476.01 216.905)">
-            <text font-family="PT Sans NarroQt" font-weight="bold" font-size="28px" fill="#2D2D2D">S</text>
-         </g>
-         <g transform="matrix(0.9958 0 0 1 1488.25 216.905)">
-            <text font-family="PT Sans NarroQt" font-weight="bold" font-size="28px" fill="#2D2D2D">P</text>
-         </g>
-         <g transform="matrix(0.9958 0 0 1 1501.55 216.905)">
-            <text font-family="PT Sans NarroQt" font-weight="bold" font-size="28px" fill="#2D2D2D">M</text>
-         </g>
-         <g transform="matrix(0.9958 0 0 1 1520.06 216.905)">
-            <text font-family="PT Sans NarroQt" font-weight="bold" font-size="28px" fill="#2D2D2D">4</text>
-         </g>
-      </g>
-      <rect x="1467.2" id="cycle-SPM4-bouton" height="38" y="187.6" width="69" fill="#0071BC"/>
-      <g id="cycle-SP2-fleche">
-         <line fill="none" stroke-miterlimit="10" id="element_42_" x2="1035.9" stroke="#326FB7" x1="886.8" y2="419.6" y1="419.6" stroke-width="2"/>
-         <line stroke-dasharray="10,4" fill="none" stroke-miterlimit="10" id="element_41_" x2="1076.9" stroke="#326FB7" x1="1035.9" y2="302.6" y1="419.6" stroke-width="2"/>
-         <polyline stroke-miterlimit="10" stroke-dasharray="10,4" id="element_40_" stroke="#326FB7" points="    994.7,302.6 1035.9,419.6 1188.8,419.6   " stroke-width="2" fill="none"/>
-         <line fill="none" stroke-miterlimit="10" id="element_39_" x2="982.3" stroke="#326FB7" x1="886.1" y2="302.6" y1="302.6" stroke-width="2"/>
-         <line stroke-dasharray="10,4" fill="none" stroke-miterlimit="10" id="element_38_" x2="1189.9" stroke="#326FB7" x1="982.3" y2="302.6" y1="302.6" stroke-width="2"/>
-         <g id="element_37_">
-            <image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAARCAYAAAAPFIbmAAAACXBIWXMAAAsSAAALEgHS3X78AAAA GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAFhJREFUeNqsz80JACAIBtD69vHW /hN0c6HwIJj5c0kQLJ6ig4i25CgCWlQQ9pFB+I8IIur0ENkeFqK6SuHszm8n/UXMvNCBcpKCFFkQ Ig8eFIELZUDiCDAAkWoexgHYE78AAAAASUVORK5CYII=" x="945" height="17" y="294" width="9"/>
-            <polygon points="943.2,294.2 943.2,311 951.6,302.6    " fill="#326FB7"/>
-         </g>
-         <g id="element_30_">
-            <image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAARCAYAAAAPFIbmAAAACXBIWXMAAAsSAAALEgHS3X78AAAA GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAEtJREFUeNpiZMADdHV1z4BoRkIK cCpCVoBVEboCDEXYFKAowqUArgifArAiQgpAgImBCECUIuLcRLTviA4nokOc6LgjOhWgKwQIMAC7 pRPx+PaTRgAAAABJRU5ErkJggg==" x="943" height="17" y="411" width="9"/>
-            <polygon points="953.7,411.2 953.7,428 945.3,419.6    " fill="#326FB7"/>
-         </g>
-      </g>
-      <g id="cycle-SP2-bouton-deco">
-         <path d="M1056.1,224.6c-1.8,0-3.3-1.5-3.3-3.3v-29.5c0-1.8,1.5-3.3,3.3-3.3h60.5c1.8,0,3.3,1.5,3.3,3.3v29.5     c0,1.8-1.5,3.3-3.3,3.3H1056.1z" fill="#2D2D2D"/>
-         <path d="M1116.6,189.6c1.2,0,2.3,1,2.3,2.3v29.5c0,1.2-1,2.3-2.3,2.3h-60.5c-1.2,0-2.3-1-2.3-2.3v-29.5     c0-1.2,1-2.3,2.3-2.3H1116.6 M1116.6,187.6h-60.5c-2.4,0-4.3,1.9-4.3,4.3v29.5c0,2.4,1.9,4.3,4.3,4.3h60.5c2.4,0,4.3-1.9,4.3-4.3     v-29.5C1120.9,189.5,1119,187.6,1116.6,187.6L1116.6,187.6z" fill="#0071BC"/>
-         <path d="M1117.4,218.9c0,1.7-1.4,3.2-3.2,3.2h-55.7c-1.7,0-3.2-1.4-3.2-3.2v-24.7c0-1.7,1.4-3.2,3.2-3.2h55.7    c1.7,0,3.2,1.4,3.2,3.2V218.9z" fill="#0071BC"/>
-         <g transform="matrix(0.9958 0 0 1 1067.46 216.905)">
-            <text font-family="PT Sans NarroQt" font-weight="bold" font-size="28px" fill="#2D2D2D">S</text>
-         </g>
-         <g transform="matrix(0.9958 0 0 1 1079.7 216.905)">
-            <text font-family="PT Sans NarroQt" font-weight="bold" font-size="28px" fill="#2D2D2D">P</text>
-         </g>
-         <g transform="matrix(0.9958 0 0 1 1092.99 216.905)">
-            <text font-family="PT Sans NarroQt" font-weight="bold" font-size="28px" fill="#2D2D2D">2</text>
-         </g>
-      </g>
-      <rect x="1051.9" id="cycle-SP2-bouton" height="38" y="187.6" width="69" fill="#0071BC"/>
-      <g id="cycle-SPM2-fleche">
-         <line fill="none" stroke-miterlimit="10" id="element_29_" x2="1035.9" stroke="#326FB7" x1="886.8" y2="419.6" y1="419.6" stroke-width="2"/>
-         <line stroke-dasharray="10,4" fill="none" stroke-miterlimit="10" id="element_28_" x2="1076.9" stroke="#326FB7" x1="1035.9" y2="302.6" y1="419.6" stroke-width="2"/>
-         <polyline stroke-miterlimit="10" stroke-dasharray="10,4" id="element_27_" stroke="#326FB7" points="    994.7,302.6 1035.9,419.6 1188.8,419.6   " stroke-width="2" fill="none"/>
-         <line fill="none" stroke-miterlimit="10" id="element_26_" x2="982.3" stroke="#326FB7" x1="886.1" y2="302.6" y1="302.6" stroke-width="2"/>
-         <line stroke-dasharray="10,4" fill="none" stroke-miterlimit="10" id="element_25_" x2="1189.9" stroke="#326FB7" x1="982.3" y2="302.6" y1="302.6" stroke-width="2"/>
-         <g id="element_24_">
-            <image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAARCAYAAAAPFIbmAAAACXBIWXMAAAsSAAALEgHS3X78AAAA GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAFhJREFUeNqsz80JACAIBtD69vHW /hN0c6HwIJj5c0kQLJ6ig4i25CgCWlQQ9pFB+I8IIur0ENkeFqK6SuHszm8n/UXMvNCBcpKCFFkQ Ig8eFIELZUDiCDAAkWoexgHYE78AAAAASUVORK5CYII=" x="945" height="17" y="294" width="9"/>
-            <polygon points="943.2,294.2 943.2,311 951.6,302.6    " fill="#326FB7"/>
-         </g>
-         <g id="element_23_">
-            <image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAARCAYAAAAPFIbmAAAACXBIWXMAAAsSAAALEgHS3X78AAAA GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAEtJREFUeNpiZMADdHV1z4BoRkIK cCpCVoBVEboCDEXYFKAowqUArgifArAiQgpAgImBCECUIuLcRLTviA4nokOc6LgjOhWgKwQIMAC7 pRPx+PaTRgAAAABJRU5ErkJggg==" x="943" height="17" y="411" width="9"/>
-            <polygon points="953.7,411.2 953.7,428 945.3,419.6    " fill="#326FB7"/>
-         </g>
-      </g>
-      <g id="cycle-SPM2-bouton-deco">
-         <path d="M925.8,224.6c-1.8,0-3.3-1.5-3.3-3.3v-29.5c0-1.8,1.5-3.3,3.3-3.3h75.5c1.8,0,3.3,1.5,3.3,3.3v29.5     c0,1.8-1.5,3.3-3.3,3.3H925.8z" fill="#2D2D2D"/>
-         <path d="M1001.3,189.6c1.2,0,2.3,1,2.3,2.3v29.5c0,1.2-1,2.3-2.3,2.3h-75.5c-1.2,0-2.3-1-2.3-2.3v-29.5     c0-1.2,1-2.3,2.3-2.3H1001.3 M1001.3,187.6h-75.5c-2.4,0-4.3,1.9-4.3,4.3v29.5c0,2.4,1.9,4.3,4.3,4.3h75.5c2.4,0,4.3-1.9,4.3-4.3     v-29.5C1005.5,189.5,1003.6,187.6,1001.3,187.6L1001.3,187.6z" fill="#0071BC"/>
-         <path d="M1002,218.9c0,1.7-1.4,3.2-3.2,3.2h-70.7c-1.7,0-3.2-1.4-3.2-3.2v-24.7c0-1.7,1.4-3.2,3.2-3.2h70.7    c1.7,0,3.2,1.4,3.2,3.2V218.9z" fill="#0071BC"/>
-         <g transform="matrix(0.9958 0 0 1 935.354 216.905)">
-            <text font-family="PT Sans NarroQt" font-weight="bold" font-size="28px" fill="#2D2D2D">S</text>
-         </g>
-         <g transform="matrix(0.9958 0 0 1 947.594 216.905)">
-            <text font-family="PT Sans NarroQt" font-weight="bold" font-size="28px" fill="#2D2D2D">P</text>
-         </g>
-         <g transform="matrix(0.9958 0 0 1 960.893 216.905)">
-            <text font-family="PT Sans NarroQt" font-weight="bold" font-size="28px" fill="#2D2D2D">M</text>
-         </g>
-         <g transform="matrix(0.9958 0 0 1 979.405 216.905)">
-            <text font-family="PT Sans NarroQt" font-weight="bold" font-size="28px" fill="#2D2D2D">2</text>
-         </g>
-      </g>
-      <rect x="929.5" id="cycle-SPM2-bouton" height="38" y="187.6" width="69" fill="#0071BC"/>
-      <g id="cycle-SP1-fleche">
-         <line stroke-dasharray="10,4" fill="none" stroke-miterlimit="10" id="element_22_" x2="1035.9" stroke="#326FB7" x1="886.8" y2="419.6" y1="419.6" stroke-width="2"/>
-         <line stroke-dasharray="10,4" fill="none" stroke-miterlimit="10" id="element_21_" x2="1076.9" stroke="#326FB7" x1="1035.9" y2="302.6" y1="419.6" stroke-width="2"/>
-         <line stroke-dasharray="10,4" fill="none" stroke-miterlimit="10" id="element_20_" x2="1035.9" stroke="#326FB7" x1="994.7" y2="419.6" y1="302.6" stroke-width="2"/>
-         <line stroke-dasharray="10,4" fill="none" stroke-miterlimit="10" id="element_19_" x2="1076.9" stroke="#326FB7" x1="886.1" y2="302.6" y1="302.6" stroke-width="2"/>
-         <line fill="none" stroke-miterlimit="10" id="element_18_" x2="1189.9" stroke="#326FB7" x1="1076.9" y2="302.6" y1="302.6" stroke-width="2"/>
-         <g id="element_17_">
-            <image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAARCAYAAAAPFIbmAAAACXBIWXMAAAsSAAALEgHS3X78AAAA GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAFhJREFUeNqsz80JACAIBtD69vHW /hN0c6HwIJj5c0kQLJ6ig4i25CgCWlQQ9pFB+I8IIur0ENkeFqK6SuHszm8n/UXMvNCBcpKCFFkQ Ig8eFIELZUDiCDAAkWoexgHYE78AAAAASUVORK5CYII=" x="1122" height="17" y="294" width="9"/>
-            <polygon points="1120.3,294.2 1120.3,311 1128.7,302.6    " fill="#326FB7"/>
-         </g>
-         <g id="element_16_">
-            <image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAARCAYAAAAPFIbmAAAACXBIWXMAAAsSAAALEgHS3X78AAAA GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAEtJREFUeNpiZMADdHV1z4BoRkIK cCpCVoBVEboCDEXYFKAowqUArgifArAiQgpAgImBCECUIuLcRLTviA4nokOc6LgjOhWgKwQIMAC7 pRPx+PaTRgAAAABJRU5ErkJggg==" x="1120" height="17" y="411" width="9"/>
-            <polygon points="1130.8,411.2 1130.8,428 1122.4,419.6    " fill="#326FB7"/>
-         </g>
-         <line fill="none" stroke-miterlimit="10" id="element_15_" x2="1188.8" stroke="#326FB7" x1="1035.9" y2="419.6" y1="419.6" stroke-width="2"/>
-      </g>
-      <g id="cycle-SP1-bouton-deco">
-         <path d="M1056.1,565.6c-1.8,0-3.3-1.5-3.3-3.3v-29.5c0-1.8,1.5-3.3,3.3-3.3h60.5c1.8,0,3.3,1.5,3.3,3.3v29.5     c0,1.8-1.5,3.3-3.3,3.3H1056.1z" fill="#2D2D2D"/>
-         <path d="M1116.6,530.6c1.2,0,2.3,1,2.3,2.3v29.5c0,1.2-1,2.3-2.3,2.3h-60.5c-1.2,0-2.3-1-2.3-2.3v-29.5     c0-1.2,1-2.3,2.3-2.3H1116.6 M1116.6,528.6h-60.5c-2.4,0-4.3,1.9-4.3,4.3v29.5c0,2.4,1.9,4.3,4.3,4.3h60.5c2.4,0,4.3-1.9,4.3-4.3     v-29.5C1120.9,530.5,1119,528.6,1116.6,528.6L1116.6,528.6z" fill="#0071BC"/>
-         <path d="M1117.4,559.9c0,1.7-1.4,3.2-3.2,3.2h-55.7c-1.7,0-3.2-1.4-3.2-3.2v-24.7c0-1.7,1.4-3.2,3.2-3.2h55.7    c1.7,0,3.2,1.4,3.2,3.2V559.9z" fill="#0071BC"/>
-         <g transform="matrix(0.9958 0 0 1 1067.46 557.894)">
-            <text font-family="PT Sans NarroQt" font-weight="bold" font-size="28px" fill="#2D2D2D">S</text>
-         </g>
-         <g transform="matrix(0.9958 0 0 1 1079.7 557.894)">
-            <text font-family="PT Sans NarroQt" font-weight="bold" font-size="28px" fill="#2D2D2D">P</text>
-         </g>
-         <g transform="matrix(0.9958 0 0 1 1092.99 557.894)">
-            <text font-family="PT Sans NarroQt" font-weight="bold" font-size="28px" fill="#2D2D2D">1</text>
-         </g>
-      </g>
-      <rect x="1051.7" id="cycle-SP1-bouton" height="38" y="528.6" width="69" fill="#0071BC"/>
-      <g id="cycle-SPM1-fleche">
-         <line stroke-dasharray="10,4" fill="none" stroke-miterlimit="10" id="element_14_" x2="1035.9" stroke="#326FB7" x1="886.8" y2="419.6" y1="419.6" stroke-width="2"/>
-         <line stroke-dasharray="10,4" fill="none" stroke-miterlimit="10" id="element_13_" x2="1076.9" stroke="#326FB7" x1="1035.9" y2="302.6" y1="419.6" stroke-width="2"/>
-         <line stroke-dasharray="10,4" fill="none" stroke-miterlimit="10" id="element_12_" x2="1035.9" stroke="#326FB7" x1="994.7" y2="419.6" y1="302.6" stroke-width="2"/>
-         <line stroke-dasharray="10,4" fill="none" stroke-miterlimit="10" id="element_5_" x2="1076.9" stroke="#326FB7" x1="886.1" y2="302.6" y1="302.6" stroke-width="2"/>
-         <line fill="none" stroke-miterlimit="10" id="element_4_" x2="1189.9" stroke="#326FB7" x1="1076.9" y2="302.6" y1="302.6" stroke-width="2"/>
-         <g id="element_3_">
-            <image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAARCAYAAAAPFIbmAAAACXBIWXMAAAsSAAALEgHS3X78AAAA GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAFhJREFUeNqsz80JACAIBtD69vHW /hN0c6HwIJj5c0kQLJ6ig4i25CgCWlQQ9pFB+I8IIur0ENkeFqK6SuHszm8n/UXMvNCBcpKCFFkQ Ig8eFIELZUDiCDAAkWoexgHYE78AAAAASUVORK5CYII=" x="1122" height="17" y="294" width="9"/>
-            <polygon points="1120.3,294.2 1120.3,311 1128.7,302.6    " fill="#326FB7"/>
-         </g>
-         <g id="element_2_">
-            <image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAARCAYAAAAPFIbmAAAACXBIWXMAAAsSAAALEgHS3X78AAAA GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAEtJREFUeNpiZMADdHV1z4BoRkIK cCpCVoBVEboCDEXYFKAowqUArgifArAiQgpAgImBCECUIuLcRLTviA4nokOc6LgjOhWgKwQIMAC7 pRPx+PaTRgAAAABJRU5ErkJggg==" x="1120" height="17" y="411" width="9"/>
-            <polygon points="1130.8,411.2 1130.8,428 1122.4,419.6    " fill="#326FB7"/>
-         </g>
-         <line fill="none" stroke-miterlimit="10" id="element_1_" x2="1188.8" stroke="#326FB7" x1="1035.9" y2="419.6" y1="419.6" stroke-width="2"/>
-      </g>
-      <g id="cycle-SPM1-bouton-deco">
-         <path d="M925.8,565.6c-1.8,0-3.3-1.5-3.3-3.3v-29.5c0-1.8,1.5-3.3,3.3-3.3h75.5c1.8,0,3.3,1.5,3.3,3.3v29.5     c0,1.8-1.5,3.3-3.3,3.3H925.8z" fill="#2D2D2D"/>
-         <path d="M1001.3,530.6c1.2,0,2.3,1,2.3,2.3v29.5c0,1.2-1,2.3-2.3,2.3h-75.5c-1.2,0-2.3-1-2.3-2.3v-29.5     c0-1.2,1-2.3,2.3-2.3H1001.3 M1001.3,528.6h-75.5c-2.4,0-4.3,1.9-4.3,4.3v29.5c0,2.4,1.9,4.3,4.3,4.3h75.5c2.4,0,4.3-1.9,4.3-4.3     v-29.5C1005.5,530.5,1003.6,528.6,1001.3,528.6L1001.3,528.6z" fill="#0071BC"/>
-         <path d="M1002,559.9c0,1.7-1.4,3.2-3.2,3.2h-70.7c-1.7,0-3.2-1.4-3.2-3.2v-24.7c0-1.7,1.4-3.2,3.2-3.2h70.7    c1.7,0,3.2,1.4,3.2,3.2V559.9z" fill="#0071BC"/>
-         <g transform="matrix(0.9958 0 0 1 935.354 557.894)">
-            <text font-family="PT Sans NarroQt" font-weight="bold" font-size="28px" fill="#2D2D2D">S</text>
-         </g>
-         <g transform="matrix(0.9958 0 0 1 947.594 557.894)">
-            <text font-family="PT Sans NarroQt" font-weight="bold" font-size="28px" fill="#2D2D2D">P</text>
-         </g>
-         <g transform="matrix(0.9958 0 0 1 960.893 557.894)">
-            <text font-family="PT Sans NarroQt" font-weight="bold" font-size="28px" fill="#2D2D2D">M</text>
-         </g>
-         <g transform="matrix(0.9958 0 0 1 979.405 557.894)">
-            <text font-family="PT Sans NarroQt" font-weight="bold" font-size="28px" fill="#2D2D2D">1</text>
-         </g>
-      </g>
-      <rect x="929.5" id="cycle-SPM1-bouton" height="38" y="528.6" width="69" fill="#0071BC"/>
    </g>
    <g id="itineraire">
-     <!-- background itineraire -->
       <polyline stroke-miterlimit="10" id="iti-E7-E6" stroke="#78909C" points="1656.3,318.6    1519.9,318.6 1479,435.6 1378.9,435.6  " stroke-width="15" fill="none"/>
       <line fill="none" stroke-miterlimit="10" id="iti-E7-E5" x2="1378.5" stroke="#78909C" x1="1656.3" y2="318.6" y1="318.6" stroke-width="15"/>
       <line fill="none" stroke-miterlimit="10" id="iti-E6-E4" x2="1188.8" stroke="#78909C" x1="1378.9" y2="435.6" y1="435.6" stroke-width="15"/>
@@ -257,178 +36,66 @@
       <polyline stroke-miterlimit="10" id="iti-E3-E2" stroke="#78909C" points="1189.9,318.6    1091.1,318.6 1050.2,435.6 886.8,435.6  " stroke-width="15" fill="none"/>
       <line fill="none" stroke-miterlimit="10" id="iti-E3-D9" x2="699.1" stroke="#78909C" x1="1189.9" y2="318.6" y1="318.6" stroke-width="15"/>
       <line fill="none" stroke-miterlimit="10" id="iti-A2-E6" x2="1378.9" stroke="#78909C" x1="1656.4" y2="435.6" y1="435.6" stroke-width="15"/>
-     <!-- end: background itineraire-->
 
       <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E7_E6">
          <polyline stroke-miterlimit="10" id="iti-E7-E6" stroke="#78909C" points="1656.3,318.6    1519.9,318.6 1479,435.6 1378.9,435.6  " stroke-width="15" fill="none"/>
       </g>
       <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E7_E5">
-         <line fill="none" stroke-miterlimit="10" id="iti-E7-E5" x2="1378.5" stroke="#5B5B5B" x1="1656.3" y2="318.6" y1="318.6" stroke-width="15"/>
+         <line fill="none" stroke-miterlimit="10" id="iti-E7-E5" x2="1378.5" stroke="blue" x1="1656.3" y2="318.6" y1="318.6" stroke-width="15"/>
       </g>
       <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E6_E4">
-         <line fill="none" stroke-miterlimit="10" id="iti-E6-E4" x2="1188.8" stroke="#5B5B5B" x1="1378.9" y2="435.6" y1="435.6" stroke-width="15"/>
+         <line fill="none" stroke-miterlimit="10" id="iti-E6-E4" x2="1188.8" stroke="blue" x1="1378.9" y2="435.6" y1="435.6" stroke-width="15"/>
       </g>
       <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E5_E3">
-         <line fill="none" stroke-miterlimit="10" id="iti-E5-E3" x2="1189.9" stroke="#5B5B5B" x1="1378.5" y2="318.6" y1="318.6" stroke-width="15"/>
+         <line fill="none" stroke-miterlimit="10" id="iti-E5-E3" x2="1189.9" stroke="blue" x1="1378.5" y2="318.6" y1="318.6" stroke-width="15"/>
       </g>
       <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E4_E2">
-         <line fill="none" stroke-miterlimit="10" id="iti-E4-E2" x2="886.8" stroke="#5B5B5B" x1="1188.8" y2="435.6" y1="435.6" stroke-width="15"/>
+         <line fill="none" stroke-miterlimit="10" id="iti-E4-E2" x2="886.8" stroke="blue" x1="1188.8" y2="435.6" y1="435.6" stroke-width="15"/>
       </g>
       <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E4_E1">
-         <polyline stroke-miterlimit="10" id="iti-E4-E1" stroke="#5B5B5B" points="1188.8,435.6    1023.5,435.6 982.6,318.6 886.1,318.6  " stroke-width="15" fill="none"/>
+         <polyline stroke-miterlimit="10" id="iti-E4-E1" stroke="blue" points="1188.8,435.6    1023.5,435.6 982.6,318.6 886.1,318.6  " stroke-width="15" fill="none"/>
       </g>
       <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E4_D9">
-         <polyline stroke-miterlimit="10" id="iti-E4-D9" stroke="#5B5B5B" points="1188.8,435.6    1023.5,435.6 982.6,318.6 699.1,318.6  " stroke-width="15" fill="none"/>
+         <polyline stroke-miterlimit="10" id="iti-E4-D9" stroke="blue" points="1188.8,435.6    1023.5,435.6 982.6,318.6 699.1,318.6  " stroke-width="15" fill="none"/>
       </g>
       <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E3_E2">
-         <polyline stroke-miterlimit="10" id="iti-E3-E2" stroke="#5B5B5B" points="1189.9,318.6    1091.1,318.6 1050.2,435.6 886.8,435.6  " stroke-width="15" fill="none"/>
+         <polyline stroke-miterlimit="10" id="iti-E3-E2" stroke="blue" points="1189.9,318.6    1091.1,318.6 1050.2,435.6 886.8,435.6  " stroke-width="15" fill="none"/>
       </g>
       <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E3_D9">
-         <line fill="none" stroke-miterlimit="10" id="iti-E3-D9" x2="699.1" stroke="#5B5B5B" x1="1189.9" y2="318.6" y1="318.6" stroke-width="15"/>
+         <line fill="none" stroke-miterlimit="10" id="iti-E3-D9" x2="699.1" stroke="blue" x1="1189.9" y2="318.6" y1="318.6" stroke-width="15"/>
       </g>
       <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_A2_E6">
-         <line fill="none" stroke-miterlimit="10" id="iti-A2-E6" x2="1378.9" stroke="#5B5B5B" x1="1656.4" y2="435.6" y1="435.6" stroke-width="15"/>
+         <line fill="none" stroke-miterlimit="10" id="iti-A2-E6" x2="1378.9" stroke="blue" x1="1656.4" y2="435.6" y1="435.6" stroke-width="15"/>
       </g>
       <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E6_E7">
-         <polyline stroke-miterlimit="10" id="iti-E6-E7" stroke="#5B5B5B" points="1378.9,435.6    1479,435.6 1519.9,318.6 1656.3,318.6  " stroke-width="15" fill="none"/>
+         <polyline stroke-miterlimit="10" id="iti-E6-E7" stroke="blue" points="1378.9,435.6    1479,435.6 1519.9,318.6 1656.3,318.6  " stroke-width="15" fill="none"/>
       </g>
       <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E6_A2">
-         <line fill="none" stroke-miterlimit="10" id="iti-E6-A2" x2="1656.4" stroke="#5B5B5B" x1="1378.9" y2="435.6" y1="435.6" stroke-width="15"/>
+         <line fill="none" stroke-miterlimit="10" id="iti-E6-A2" x2="1656.4" stroke="blue" x1="1378.9" y2="435.6" y1="435.6" stroke-width="15"/>
       </g>
       <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E5_E7">
-         <line fill="none" stroke-miterlimit="10" id="iti-E5-E7" x2="1656.3" stroke="#5B5B5B" x1="1378.5" y2="318.6" y1="318.6" stroke-width="15"/>
+         <line fill="none" stroke-miterlimit="10" id="iti-E5-E7" x2="1656.3" stroke="blue" x1="1378.5" y2="318.6" y1="318.6" stroke-width="15"/>
       </g>
       <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E3_E5">
-         <line fill="none" stroke-miterlimit="10" id="iti-E3-E5" x2="1378.5" stroke="#5B5B5B" x1="1189.9" y2="318.6" y1="318.6" stroke-width="15"/>
+         <line fill="none" stroke-miterlimit="10" id="iti-E3-E5" x2="1378.5" stroke="blue" x1="1189.9" y2="318.6" y1="318.6" stroke-width="15"/>
       </g>
       <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E2_E6">
-         <line fill="none" stroke-miterlimit="10" id="iti-E2-E6" x2="1378.9" stroke="#5B5B5B" x1="886.8" y2="435.6" y1="435.6" stroke-width="15"/>
+         <line fill="none" stroke-miterlimit="10" id="iti-E2-E6" x2="1378.9" stroke="blue" x1="886.8" y2="435.6" y1="435.6" stroke-width="15"/>
       </g>
       <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E2_E3">
-         <polyline stroke-miterlimit="10" id="iti-E2-E3" stroke="#5B5B5B" points="886.8,435.6    1050.2,435.6 1091.1,318.6 1189.9,318.6  " stroke-width="15" fill="none"/>
+         <polyline stroke-miterlimit="10" id="iti-E2-E3" stroke="blue" points="886.8,435.6    1050.2,435.6 1091.1,318.6 1189.9,318.6  " stroke-width="15" fill="none"/>
       </g>
       <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E1_E6">
-         <polyline stroke-miterlimit="10" id="iti-E1-E6" stroke="#5B5B5B" points="886.1,318.6 982.6,318.6    1023.5,435.6 1378.9,435.6  " stroke-width="15" fill="none"/>
+         <polyline stroke-miterlimit="10" id="iti-E1-E6" stroke="blue" points="886.1,318.6 982.6,318.6    1023.5,435.6 1378.9,435.6  " stroke-width="15" fill="none"/>
       </g>
       <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E1_E4">
-         <polyline stroke-miterlimit="10" id="iti-E1-E4" stroke="#5B5B5B" points="886.1,318.6 982.6,318.6    1023.5,435.6 1188.8,435.6  " stroke-width="15" fill="none"/>
+         <polyline stroke-miterlimit="10" id="iti-E1-E4" stroke="blue" points="886.1,318.6 982.6,318.6    1023.5,435.6 1188.8,435.6  " stroke-width="15" fill="none"/>
       </g>
       <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E1_E3">
-         <line fill="none" stroke-miterlimit="10" id="iti-E1-E3" x2="1189.9" stroke="#5B5B5B" x1="886.1" y2="318.6" y1="318.6" stroke-width="15"/>
+         <line fill="none" stroke-miterlimit="10" id="iti-E1-E3" x2="1189.9" stroke="blue" x1="886.1" y2="318.6" y1="318.6" stroke-width="15"/>
       </g>
       <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_D9_E1">
-         <line fill="none" stroke-miterlimit="10" id="iti-D9-E1" x2="886.1" stroke="#5B5B5B" x1="699.1" y2="318.6" y1="318.6" stroke-width="15"/>
+         <line fill="none" stroke-miterlimit="10" id="iti-D9-E1" x2="886.1" stroke="blue" x1="699.1" y2="318.6" y1="318.6" stroke-width="15"/>
       </g>
    </g>
-   <g id="fleche-itineraire">
-      <g synoptic:animationClassList="SaeRouteArrowAnimator:ATS" synoptic:entityId="ETOI_ITI_E7_E6">
-         <polygon class="shadow-right" points="1579.3,303.1 1579.3,334.1 1563.3,318.6   " fill="none"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteArrowAnimator:ATS" synoptic:entityId="ETOI_ITI_E7_E5">
-         <polygon class="shadow-right" points="1579.3,303.1 1579.3,334.1 1563.3,318.6   " fill="none"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteArrowAnimator:ATS" synoptic:entityId="ETOI_ITI_E6_E4">
-         <polygon class="shadow-left" points="1304.2,420.1 1304.2,451.1 1288.2,435.6   " fill="none"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteArrowAnimator:ATS" synoptic:entityId="ETOI_ITI_E5_E3">
-         <polygon class="shadow-right" points="1304.2,303.1 1304.2,334.1 1288.2,318.6   " fill="none"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteArrowAnimator:ATS" synoptic:entityId="ETOI_ITI_A3_E2">
-         <polygon class="shadow-right" points="1126.9,303.1 1126.9,334.1 1110.9,318.6   " fill="none"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteArrowAnimator:ATS" synoptic:entityId="ETOI_ITI_E3_D9">
-         <polygon class="shadow-right" points="1059.5,303.1 1059.5,334.1 1043.5,318.6   " fill="none"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteArrowAnimator:ATS" synoptic:entityId="ETOI_ITI_A2_E6">
-         <polygon class="shadow-left" points="1593.8,420.1 1593.8,451.1 1577.8,435.6   " fill="none"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteArrowAnimator:ATS" synoptic:entityId="ETOI_ITI_E6_E7">
-         <polygon class="shadow-left" points="1432,420.1 1432,451.1 1448,435.6    " fill="none"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteArrowAnimator:ATS" synoptic:entityId="ETOI_ITI_E6_A2">
-         <polygon class="shadow-left" points="1553.9,420.1 1553.9,451.1 1569.9,435.6    " fill="none"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteArrowAnimator:ATS" synoptic:entityId="ETOI_ITI_E5_E7">
-         <polygon class="shadow-right" points="1432,303.1 1432,334.1 1448,318.6    " fill="none"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteArrowAnimator:ATS" synoptic:entityId="ETOI_ITI_E3_E5">
-         <polygon class="shadow-right" points="1264,303.1 1264,334.1 1280,318.6    " fill="none"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteArrowAnimator:ATS" synoptic:entityId="ETOI_ITI_E2_E3">
-         <polygon class="shadow-right" points="954.5,420.1 954.5,451.1 970.5,435.6    " fill="none"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteArrowAnimator:ATS" synoptic:entityId="ETOI_ITI_E1_E4">
-         <polygon class="shadow-right" points="954.5,303.1 954.5,334.1 970.5,318.6    " fill="none"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteArrowAnimator:ATS" synoptic:entityId="ETOI_ITI_E1_E3">
-         <polygon class="shadow-right" points="1019.5,303.1 1019.5,334.1 1035.5,318.6    " fill="none"/>         
-      </g>
-      <g synoptic:animationClassList="SaeRouteArrowAnimator:ATS" synoptic:entityId="ETOI_ITI_D9_E1">
-         <polygon class="shadow-right" points="789.6,303.1 789.6,334.1 805.6,318.6    " fill="none"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteArrowAnimator:ATS" synoptic:entityId="ETOI_ITI_E4_D2">
-         <polygon class="shadow-left" points="1126.9,420.1 1126.9,451.1 1110.9,435.6   " fill="none"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteArrowAnimator:ATS" synoptic:entityId="ETOI_ITI_E4_E1">
-         <polygon class="shadow-left" points="1126.9,420.1 1126.9,451.1 1110.9,435.6   " fill="none"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteArrowAnimator:ATS" synoptic:entityId="ETOI_ITI_E4_D9">
-         <polygon class="shadow-left" points="1126.9,420.1 1126.9,451.1 1110.9,435.6   " fill="none"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteArrowAnimator:ATS" synoptic:entityId="ETOI_ITI_E2_E6">
-         <polygon class="shadow-right" points="1264,420.1 1264,451.1 1280,435.6    " fill="none"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteArrowAnimator:ATS" synoptic:entityId="ETOI_ITI_E1_E6">
-         <polygon class="shadow-right" points="1264,420.1 1264,451.1 1280,435.6    " fill="none"/>
-      </g>
-   </g>
-   <g id="contresens">
-      <g id="cs-78-deco">
-         <text x="448.034" id="element_11_" font-family="PT Sans" font-weight="bold" y="266.666" font-size="28px" fill="#6F6E6E">CS</text>
-         <polygon id="element_10_" points="487.3,248 496.6,257.3 487.3,266.5 486.2,270.3 499.2,257.3 486.2,244.3   " fill="#4D4D4D"/>
-         <polygon id="element_9_" points="439.7,248.3 430.4,257.6 439.7,266.9 440.7,270.6 427.7,257.6 440.7,244.6   " fill="#4D4D4D"/>
-      </g>
-      <rect x="399.5" id="cs-78" height="38" y="240.6" width="130" fill="#6F6E6E"/>
-      <g id="cs-87-deco">
-         <g id="element_8_">
-            <path d="M422.5,512.6c-1.7,0-3-1.3-3-3v-30c0-1.7,1.3-3,3-3h82c1.7,0,3,1.3,3,3v30c0,1.7-1.3,3-3,3H422.5z" fill="#2D2D2D"/>
-            <path d="M504.5,477.6c1.1,0,2,0.9,2,2v30c0,1.1-0.9,2-2,2h-82c-1.1,0-2-0.9-2-2v-30c0-1.1,0.9-2,2-2H504.5       M504.5,475.6h-82c-2.2,0-4,1.8-4,4v30c0,2.2,1.8,4,4,4h82c2.2,0,4-1.8,4-4v-30C508.5,477.4,506.7,475.6,504.5,475.6      L504.5,475.6z" fill="#6F6E6E"/>
-            <path d="M463.2,508.1c0,1.1-0.9,2-2,2h-37c-1.1,0-2-0.9-2-2v-27c0-1.1,0.9-2,2-2h37c1.1,0,2,0.9,2,2V508.1z" fill="#6F6E6E"/>
-            <text x="427.444" font-family="PT Sans" font-weight="bold" y="504.774" font-size="28px" fill="#212121">CS</text>
-         </g>
-         <g id="element_7_">
-            <polygon points="411.3,485 401.3,495 411.3,505 412.5,509 398.5,495 412.5,481    " fill="#4D4D4D"/>
-            <rect x="394.5" height="34" y="477.6" width="26" fill="none"/>
-         </g>
-         <g id="element_6_">
-            <polygon points="515.7,485 525.7,495 515.7,505 514.5,509 528.5,495 514.5,481    " fill="#4D4D4D"/>
-            <rect x="506.5" height="34" y="477.6" width="26" fill="none"/>
-         </g>
-      </g>
-      <rect x="399.5" id="cs-87" height="38" y="475.6" width="130" fill="#6F6E6E"/>
-      <g id="cs-98-deco">
-         <text x="1887.09" id="element_36_" font-family="PT Sans" font-weight="bold" y="506.178" font-size="28px" fill="#6F6E6E">CS</text>
-         <polygon id="element_35_" points="1926.4,487.5 1935.7,496.8 1926.4,506.1 1925.3,509.8 1938.3,496.8     1925.3,483.8   " fill="#4D4D4D"/>
-         <polygon id="element_34_" points="1878.7,487.8 1869.4,497.1 1878.7,506.4 1879.8,510.1 1866.8,497.1     1879.8,484.1   " fill="#4D4D4D"/>
-      </g>
-      <rect x="1837.5" id="cs-98" height="38" y="475.6" width="130" fill="#6F6E6E"/>
-      <g id="cs-89-deco">
-         <g id="element_33_">
-            <path d="M1861.5,277.6c-1.7,0-3-1.3-3-3v-30c0-1.7,1.3-3,3-3h82c1.7,0,3,1.3,3,3v30c0,1.7-1.3,3-3,3H1861.5z" fill="#2D2D2D"/>
-            <path d="M1943.5,242.6c1.1,0,2,0.9,2,2v30c0,1.1-0.9,2-2,2h-82c-1.1,0-2-0.9-2-2v-30c0-1.1,0.9-2,2-2H1943.5       M1943.5,240.6h-82c-2.2,0-4,1.8-4,4v30c0,2.2,1.8,4,4,4h82c2.2,0,4-1.8,4-4v-30C1947.5,242.4,1945.8,240.6,1943.5,240.6      L1943.5,240.6z" fill="#6F6E6E"/>
-            <path d="M1902.2,273.1c0,1.1-0.9,2-2,2h-37c-1.1,0-2-0.9-2-2v-27c0-1.1,0.9-2,2-2h37c1.1,0,2,0.9,2,2V273.1z" fill="#6F6E6E"/>
-            <text x="1866.5" font-family="PT Sans" font-weight="bold" y="269.775" font-size="28px" fill="#212121">CS</text>
-         </g>
-         <g id="element_32_">
-            <polygon points="1850.4,250 1840.4,260 1850.4,270 1851.5,274 1837.5,260 1851.5,246    " fill="#4D4D4D"/>
-            <rect x="1833.5" height="34" y="242.6" width="26" fill="none"/>
-         </g>
-         <g id="element_31_">
-            <polygon points="1954.7,250 1964.7,260 1954.7,270 1953.5,274 1967.5,260 1953.5,246    " fill="#4D4D4D"/>
-            <rect x="1945.5" height="34" y="242.6" width="26" fill="none"/>
-         </g>
-      </g>
-      <rect x="1837.5" id="cs-89" height="38" y="240.6" width="130" fill="#6F6E6E"/>
-   </g>
-   <g id="foreground"/>
 </svg>
