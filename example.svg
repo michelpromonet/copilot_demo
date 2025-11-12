@@ -1,101 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
-<svg xml:space="preserve" viewBox="0 0 2368 768" overflow="visible" y="0px" xmlns:synoptic="http://thalesgroup.com/gts/ics/synoptic" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.2" x="0px" baseProfile="tiny">
+<svg xml:space="preserve" viewBox="0 0 700 300" overflow="visible" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.2" x="0px" baseProfile="tiny">
    <g id="background">
       <g>
-         <text x="1295.78" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">C</text>
-         <text x="1306.06" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">H</text>
-         <text x="1318.16" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">A</text>
-         <text x="1328.69" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">R</text>
-         <text x="1339.4" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">L</text>
-         <text x="1348.7" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">E</text>
-         <text x="1358.35" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">S</text>
-         <text x="1372.71" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">D</text>
-         <text x="1384.49" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">E</text>
-         <text x="1398.94" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">G</text>
-         <text x="1409.96" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">A</text>
-         <text x="1420.49" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">U</text>
-         <text x="1432.22" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">L</text>
-         <text x="1441.53" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">L</text>
-         <text x="1450.83" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">E</text>
-         <text x="1350.49" font-family="PT Sans" y="120.537" font-size="18px" fill="red">É</text>
-         <text x="1360.14" font-family="PT Sans" y="120.537" font-size="18px" fill="red">T</text>
-         <text x="1369.27" font-family="PT Sans" y="120.537" font-size="18px" fill="red">O</text>
-         <text x="1381.58" font-family="PT Sans" y="120.537" font-size="18px" fill="red">I</text>
-         <text x="1386.82" font-family="PT Sans" y="120.537" font-size="18px" fill="red">L</text>
-         <text x="1396.12" font-family="PT Sans" y="120.537" font-size="18px" fill="red">E</text>
-      </g>
-   </g>
-   <g id="itineraire">
-      <polyline stroke-miterlimit="10" id="iti-E7-E6" stroke="#78909C" points="1656.3,318.6    1519.9,318.6 1479,435.6 1378.9,435.6  " stroke-width="15" fill="none"/>
-      <line fill="none" stroke-miterlimit="10" id="iti-E7-E5" x2="1378.5" stroke="#78909C" x1="1656.3" y2="318.6" y1="318.6" stroke-width="15"/>
-      <line fill="none" stroke-miterlimit="10" id="iti-E6-E4" x2="1188.8" stroke="#78909C" x1="1378.9" y2="435.6" y1="435.6" stroke-width="15"/>
-      <line fill="none" stroke-miterlimit="10" id="iti-E5-E3" x2="1189.9" stroke="#78909C" x1="1378.5" y2="318.6" y1="318.6" stroke-width="15"/>
-      <line fill="none" stroke-miterlimit="10" id="iti-E4-E2" x2="886.8" stroke="#78909C" x1="1188.8" y2="435.6" y1="435.6" stroke-width="15"/>
-      <polyline stroke-miterlimit="10" id="iti-E4-E1" stroke="#78909C" points="1188.8,435.6    1023.5,435.6 982.6,318.6 886.1,318.6  " stroke-width="15" fill="none"/>
-      <polyline stroke-miterlimit="10" id="iti-E4-D9" stroke="#78909C" points="1188.8,435.6    1023.5,435.6 982.6,318.6 699.1,318.6  " stroke-width="15" fill="none"/>
-      <polyline stroke-miterlimit="10" id="iti-E3-E2" stroke="#78909C" points="1189.9,318.6    1091.1,318.6 1050.2,435.6 886.8,435.6  " stroke-width="15" fill="none"/>
-      <line fill="none" stroke-miterlimit="10" id="iti-E3-D9" x2="699.1" stroke="#78909C" x1="1189.9" y2="318.6" y1="318.6" stroke-width="15"/>
-      <line fill="none" stroke-miterlimit="10" id="iti-A2-E6" x2="1378.9" stroke="#78909C" x1="1656.4" y2="435.6" y1="435.6" stroke-width="15"/>
-
-      <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E7_E6">
-         <polyline stroke-miterlimit="10" id="iti-E7-E6" stroke="#78909C" points="1656.3,318.6    1519.9,318.6 1479,435.6 1378.9,435.6  " stroke-width="15" fill="none"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E7_E5">
-         <line fill="none" stroke-miterlimit="10" id="iti-E7-E5" x2="1378.5" stroke="blue" x1="1656.3" y2="318.6" y1="318.6" stroke-width="15"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E6_E4">
-         <line fill="none" stroke-miterlimit="10" id="iti-E6-E4" x2="1188.8" stroke="blue" x1="1378.9" y2="435.6" y1="435.6" stroke-width="15"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E5_E3">
-         <line fill="none" stroke-miterlimit="10" id="iti-E5-E3" x2="1189.9" stroke="blue" x1="1378.5" y2="318.6" y1="318.6" stroke-width="15"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E4_E2">
-         <line fill="none" stroke-miterlimit="10" id="iti-E4-E2" x2="886.8" stroke="blue" x1="1188.8" y2="435.6" y1="435.6" stroke-width="15"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E4_E1">
-         <polyline stroke-miterlimit="10" id="iti-E4-E1" stroke="blue" points="1188.8,435.6    1023.5,435.6 982.6,318.6 886.1,318.6  " stroke-width="15" fill="none"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E4_D9">
-         <polyline stroke-miterlimit="10" id="iti-E4-D9" stroke="blue" points="1188.8,435.6    1023.5,435.6 982.6,318.6 699.1,318.6  " stroke-width="15" fill="none"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E3_E2">
-         <polyline stroke-miterlimit="10" id="iti-E3-E2" stroke="blue" points="1189.9,318.6    1091.1,318.6 1050.2,435.6 886.8,435.6  " stroke-width="15" fill="none"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E3_D9">
-         <line fill="none" stroke-miterlimit="10" id="iti-E3-D9" x2="699.1" stroke="blue" x1="1189.9" y2="318.6" y1="318.6" stroke-width="15"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_A2_E6">
-         <line fill="none" stroke-miterlimit="10" id="iti-A2-E6" x2="1378.9" stroke="blue" x1="1656.4" y2="435.6" y1="435.6" stroke-width="15"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E6_E7">
-         <polyline stroke-miterlimit="10" id="iti-E6-E7" stroke="blue" points="1378.9,435.6    1479,435.6 1519.9,318.6 1656.3,318.6  " stroke-width="15" fill="none"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E6_A2">
-         <line fill="none" stroke-miterlimit="10" id="iti-E6-A2" x2="1656.4" stroke="blue" x1="1378.9" y2="435.6" y1="435.6" stroke-width="15"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E5_E7">
-         <line fill="none" stroke-miterlimit="10" id="iti-E5-E7" x2="1656.3" stroke="blue" x1="1378.5" y2="318.6" y1="318.6" stroke-width="15"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E3_E5">
-         <line fill="none" stroke-miterlimit="10" id="iti-E3-E5" x2="1378.5" stroke="blue" x1="1189.9" y2="318.6" y1="318.6" stroke-width="15"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E2_E6">
-         <line fill="none" stroke-miterlimit="10" id="iti-E2-E6" x2="1378.9" stroke="blue" x1="886.8" y2="435.6" y1="435.6" stroke-width="15"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E2_E3">
-         <polyline stroke-miterlimit="10" id="iti-E2-E3" stroke="blue" points="886.8,435.6    1050.2,435.6 1091.1,318.6 1189.9,318.6  " stroke-width="15" fill="none"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E1_E6">
-         <polyline stroke-miterlimit="10" id="iti-E1-E6" stroke="blue" points="886.1,318.6 982.6,318.6    1023.5,435.6 1378.9,435.6  " stroke-width="15" fill="none"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E1_E4">
-         <polyline stroke-miterlimit="10" id="iti-E1-E4" stroke="blue" points="886.1,318.6 982.6,318.6    1023.5,435.6 1188.8,435.6  " stroke-width="15" fill="none"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_E1_E3">
-         <line fill="none" stroke-miterlimit="10" id="iti-E1-E3" x2="1189.9" stroke="blue" x1="886.1" y2="318.6" y1="318.6" stroke-width="15"/>
-      </g>
-      <g synoptic:animationClassList="SaeRouteAnimator:ATS" synoptic:entityId="ETOI_ITI_D9_E1">
-         <line fill="none" stroke-miterlimit="10" id="iti-D9-E1" x2="886.1" stroke="blue" x1="699.1" y2="318.6" y1="318.6" stroke-width="15"/>
+         <text x="295.78" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">C</text>
+         <text x="306.06" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">H</text>
+         <text x="318.16" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">A</text>
+         <text x="328.69" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">R</text>
+         <text x="339.4" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">L</text>
+         <text x="348.7" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">E</text>
+         <text x="358.35" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">S</text>
+         <text x="372.71" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">D</text>
+         <text x="384.49" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">E</text>
+         <text x="398.94" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">G</text>
+         <text x="409.96" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">A</text>
+         <text x="420.49" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">U</text>
+         <text x="432.22" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">L</text>
+         <text x="441.53" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">L</text>
+         <text x="450.83" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">E</text>
+         <text x="350.49" font-family="PT Sans" y="120.537" font-size="18px" fill="red">É</text>
+         <text x="360.14" font-family="PT Sans" y="120.537" font-size="18px" fill="red">T</text>
+         <text x="369.27" font-family="PT Sans" y="120.537" font-size="18px" fill="red">O</text>
+         <text x="381.58" font-family="PT Sans" y="120.537" font-size="18px" fill="red">I</text>
+         <text x="386.82" font-family="PT Sans" y="120.537" font-size="18px" fill="red">L</text>
+         <text x="396.12" font-family="PT Sans" y="120.537" font-size="18px" fill="red">E</text>
       </g>
    </g>
 </svg>

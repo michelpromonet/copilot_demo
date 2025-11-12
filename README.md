@@ -24,5 +24,5 @@ please add doc for methods
 
 java
 ###
-please create a spring 3 using jdk21 that makes a basic crud using H2 database in folder samples/java
+please create a spring 3 using jdk21 that makes a basic crud using H2 database
 add a simple html/javascript ui to access crud
