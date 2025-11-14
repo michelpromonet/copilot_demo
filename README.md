@@ -1,4 +1,13 @@
-file manipulation
+Links
+===
+
+Wiki documentation: https://wiki.corp.gts/display/gtseng/Github+Copilot
+
+Github organization: https://github.com/orgs/GroundTransportationSystems/people
+
+Model comparison: https://docs.github.com/en/copilot/reference/ai-models/model-comparison
+
+Demo
 ===
 
 i18n.json
@@ -13,16 +22,19 @@ example.svg
 ###
 please group continous characters
 
-Natural Language to Code
-###
-write a nodejs script to group continous character in example.svg
-
 Typescript
 ###
 can you explain this code
 please add doc for methods
+> code completion
+create a method implementing fibbonaci
+
+Natural Language to Code
+###
+write a nodejs script to group continous character in example.svg
 
 java
 ###
-please create a spring 3 using jdk21 that makes a basic crud using H2 database
-add a simple html/javascript ui to access crud
+(please create a spring 3 using jdk21 that makes a basic crud using H2 database with a simple html UI)
+-- Agent --
+please fix build
