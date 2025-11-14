@@ -18,33 +18,34 @@ Working with translation file i18n.json
 please fix translations  
 -- Set Edit Mode --  
 please fix translations  
-please add italian and japonese  
+please add italian and japonese   
+
+Code completion
+####
+(create a code.ts file and start styping   
+// create a method implementing fibbonaci
+)
+please execute it  
+please convert in python  
+please execute it  
 
 Working with SVG file example.svg
 ###
 -- Set Edit Mode --  
-please group continous characters
+please group continous characters   
 -- Set Agent Mode --  
-please create a script that make this modification
-please run it
+please create a script that make this modification   
+please run it   
 
 Doc in Typescript sae-track-power-section.ts
 ###
-can you explain this code
-please add doc for methods
+can you explain this code   
+please add doc for methods   
 
-Code completion
-####
-(create a code.ts file and start styping
-// create a method implementing fibbonaci
-)
-please execute it
-please convert in python
-please execute it
 
 Fixing java
 ###
-(project was create with "please create a spring 3 using jdk21 that makes a basic crud using H2 database with a simple html UI" and broke by myself :) )
-please fix build
-please fix update
-please remove email field and add mobile number
+(project was create with "please create a spring 3 using jdk21 that makes a basic crud using H2 database with a simple html UI" and broke by myself :) )  
+please fix build   
+please fix update   
+please remove email field and add mobile number   
