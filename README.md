@@ -12,37 +12,39 @@ Model comparison: https://docs.github.com/en/copilot/reference/ai-models/model-c
 Demo
 ===
 
-i18n.json
+Working with translation file i18n.json
 ###
--- Ask --  
+-- Set Ask Mode --  
 please fix translations  
--- Edit --  
+-- Set Edit Mode --  
 please fix translations  
 please add italian and japonese  
 
-example.svg
+Working with SVG file example.svg
 ###
-please group continous characters keeping space
--- Agent --  
-create a script that make this modification
+-- Set Edit Mode --  
+please group continous characters
+-- Set Agent Mode --  
+please create a script that make this modification
+please run it
 
-Typescript
+Doc in Typescript sae-track-power-section.ts
 ###
 can you explain this code
 please add doc for methods
 
-code completion
+Code completion
 ####
-(in ts file)
-create a method implementing fibbonaci
-(in python)
+(create a code.ts file and start styping
+// create a method implementing fibbonaci
+)
+please execute it
+please convert in python
+please execute it
 
-Natural Language to Code
+Fixing java
 ###
-write a nodejs script to group continous character in example.svg
-
-java
-###
-(please create a spring 3 using jdk21 that makes a basic crud using H2 database with a simple html UI)
--- Agent --
+(project was create with "please create a spring 3 using jdk21 that makes a basic crud using H2 database with a simple html UI" and broke by myself :) )
 please fix build
+please fix update
+please remove email field and add mobile number
