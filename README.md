@@ -20,14 +20,20 @@ please add italian and japonese
 
 example.svg
 ###
-please group continous characters
+please group continous characters keeping space
+--Agent--
+create a script that
 
 Typescript
 ###
 can you explain this code
 please add doc for methods
-> code completion
+
+code completion
+####
+(in ts file)
 create a method implementing fibbonaci
+(in python)
 
 Natural Language to Code
 ###
