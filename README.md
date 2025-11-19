@@ -14,11 +14,11 @@ Demo
 
 Working with translation file i18n.json
 ---
--- Set Ask Mode --  
+-- Set Ask Mode ** GPT5 --  
 ```
 please fix translations  
 ```
--- Set Edit Mode --  
+-- Set Edit Mode ** GPT5 --  
 ```
 please fix translations  
 please add italian and japonese   
@@ -27,12 +27,14 @@ please add italian and japonese
 Code completion
 ---
 ```
-(create a code.ts file and start styping   
+(create a method.ts file and start styping   
 // create a method implementing fibbonaci
 )
-please execute it  
+```
+npx tsx method.ts
+
+```
 please convert in python  
-please execute it  
 ```
 
 Working with SVG file example.svg
