@@ -24,19 +24,6 @@ please fix translations
 please add italian and japonese   
 ```
 
-Code completion
----
-```
-(create a method.ts file and start styping   
-// create a method implementing fibbonaci
-)
-```
-npx tsx method.ts
-
-```
-please convert in python  
-```
-
 Working with SVG file example.svg
 ---
 -- Set Edit Mode --  
@@ -47,6 +34,19 @@ please group continous characters
 ```
 please create a script that make this modification   
 please run it   
+```
+
+Code completion
+---
+```
+(open a method.ts file and start styping   
+// create a method implementing fibbonaci
+)
+```
+npx tsx method.ts
+
+```
+please convert in python  
 ```
 
 Doc in Typescript sae-track-power-section.ts
