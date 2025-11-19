@@ -14,11 +14,11 @@ Demo
 
 Working with translation file i18n.json
 ---
--- Set Ask Mode ** GPT5 --  
+-- Set Ask Mode --  
 ```
 please fix translations  
 ```
--- Set Edit Mode ** GPT5 --  
+-- Set Edit Mode --  
 ```
 please fix translations  
 please add italian and japonese   
@@ -26,13 +26,14 @@ please add italian and japonese
 
 Working with SVG file example.svg
 ---
--- Set Edit Mode --  
+-- Set Edit Mode  --  
 ```
-please group continous characters   
+please group continous characters
+please group continous characters keeping space character   
 ```
--- Set Agent Mode --  
+-- Set Agent Mode  --  
 ```
-please create a script that make this modification   
+please create a script that group continous characters keeping space character     
 please run it   
 ```
 
@@ -52,15 +53,19 @@ please convert in python
 Doc in Typescript sae-track-power-section.ts
 ---
 ```
-can you explain this code   
-please add doc for methods   
+please explain this code   
+please add doc for methods
+(please improve it)
 ```
 
 Fixing java
 ---
-(project was create with "please create a spring 3 using jdk21 that makes a basic crud using H2 database with a simple html UI" and broke by myself :) )  
+(project was created with prompt "please create a spring 3 using jdk21 that makes a basic crud using H2 database with a simple html UI", then I broke it :) )  
 ```
-please fix build   
+please fix build os java project
+```
+mvn spring-boot:run  
+```
 please fix update   
 please remove email field and add mobile number   
 ```
