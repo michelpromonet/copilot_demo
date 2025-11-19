@@ -1,11 +1,4 @@
-/***************************************************************************************
-* Copyright (C) Hitachi Rail - All Rights Reserved
-* Unauthorized copying of this file, via any medium is strictly prohibited
-* Proprietary and confidential
-***************************************************************************************/
-
 import type { IAnimator, IAttribute, ISynopticContext } from "@ids/synoptic-lib";
-import { SvgElementUtils } from "./utils/svg-element-utils";
 import { ILogger, Logger } from "@ats/ui-services";
 
 
@@ -70,13 +63,11 @@ export class SaeTrackPowerSection implements IAnimator {
     private _updateGraphic(entity: SVGElement) {
         if (this._stateValue !== undefined) {
             if (this._stateValue === 0) {
-                SvgElementUtils.removeCssClass(entity, this._UNKNOWN_STATE_CSS_CLASS);
-                SvgElementUtils.removeCssClass(entity, this._ON_STATE_CSS_CLASS);
-                SvgElementUtils.setCssClass(entity, this._OFF_STATE_CSS_CLASS);
+                entity.classList.remove(this._UNKNOWN_STATE_CSS_CLASS, this._ON_STATE_CSS_CLASS);
+                entity.classList.add(this._OFF_STATE_CSS_CLASS);
             } else if (this._stateValue === 1) {
-                SvgElementUtils.removeCssClass(entity, this._UNKNOWN_STATE_CSS_CLASS);
-                SvgElementUtils.removeCssClass(entity, this._OFF_STATE_CSS_CLASS);
-                SvgElementUtils.setCssClass(entity, this._ON_STATE_CSS_CLASS);
+                entity.classList.remove(this._UNKNOWN_STATE_CSS_CLASS, this._OFF_STATE_CSS_CLASS);
+                entity.classList.add(this._ON_STATE_CSS_CLASS);
             } else {
                 this._setUnknown(entity);
             }
@@ -87,8 +78,7 @@ export class SaeTrackPowerSection implements IAnimator {
 
 
     private _setUnknown(entity: SVGElement): void {
-        SvgElementUtils.removeCssClass(entity, this._ON_STATE_CSS_CLASS);
-        SvgElementUtils.removeCssClass(entity, this._OFF_STATE_CSS_CLASS);
-        SvgElementUtils.setCssClass(entity, this._UNKNOWN_STATE_CSS_CLASS);
+        entity.classList.remove(this._ON_STATE_CSS_CLASS, this._OFF_STATE_CSS_CLASS);
+        entity.classList.add(this._UNKNOWN_STATE_CSS_CLASS);
     }
 }
