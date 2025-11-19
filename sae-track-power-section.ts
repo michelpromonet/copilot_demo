@@ -1,15 +1,11 @@
 import type { IAnimator, IAttribute, ISynopticContext } from "@ids/synoptic-lib";
-import { ILogger, Logger } from "@ats/ui-services";
-
 
 export class SaeTrackPowerSection implements IAnimator {
     public attributes: string[] = [];
-    private readonly _LOGGER: ILogger = Logger.build("SaeTrackPowerSection");
     private _entity!: SVGElement;
     private _entityId!: string;
 
     private readonly _STATE_ATTR = ".powerState";
-
     private _stateValue?: number;
 
     private readonly _UNKNOWN_STATE_CSS_CLASS = "sae-track-power-section-unknown";
@@ -37,7 +33,10 @@ export class SaeTrackPowerSection implements IAnimator {
     }
 
     public process(entity: SVGElement, _entityId: string, data: Map<string, IAttribute>): void {
-        if (this.receivedAllData(data)) {
+        const stateValue = data.get(this._STATE_ATTR);
+
+        if (stateValue && typeof stateValue.value === "number") {
+            this._stateValue = stateValue.value;
             this._updateGraphic(entity);
         } else {
             this._setUnknown(entity)
@@ -46,18 +45,6 @@ export class SaeTrackPowerSection implements IAnimator {
 
     public invalidate(entity: SVGElement, _entityId: string): void {
         this._setUnknown(entity);
-    }
-
-    private receivedAllData(data: Map<string, IAttribute>): boolean {
-        let result = false;
-        const stateValue = data.get(this._STATE_ATTR);
-
-        if (stateValue && typeof stateValue.value === "number") {
-            this._stateValue = stateValue.value;
-            result = true;
-        }
-
-        return result;
     }
 
     private _updateGraphic(entity: SVGElement) {
@@ -75,7 +62,6 @@ export class SaeTrackPowerSection implements IAnimator {
             this._setUnknown(entity);
         }
     }
-
 
     private _setUnknown(entity: SVGElement): void {
         entity.classList.remove(this._ON_STATE_CSS_CLASS, this._OFF_STATE_CSS_CLASS);
