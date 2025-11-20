@@ -28,7 +28,6 @@ Working with SVG file example.svg
 ---
 -- Set Edit Mode  --  
 ```
-please group continous characters
 please group continous characters keeping space character   
 ```
 -- Set Agent Mode  --  
@@ -62,10 +61,10 @@ Fixing java
 ---
 (project was created with prompt "please create a spring 3 using jdk21 that makes a basic crud using H2 database with a simple html UI", then I broke it :) )  
 ```
-please fix build os java project
+please fix build of java project
 ```
 mvn spring-boot:run  
 ```
-please fix update method  
+please fix update api  
 please remove email field and add mobile number   
 ```
