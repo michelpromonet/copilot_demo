@@ -8,14 +8,9 @@
         "IDS.ids-showcase.dashboard.name.screenwall.shortText": "Screenwall",
         "IDS.ids-showcase.dashboard.name.syn-alarms.shortText": "Synoptics & Alarm Banner",
         "IDS.ids-showcase.dashboard.name.syn-navigation.shortText": "Synoptics & Navigation",
-        "IDS.ids-showcase.dashboard.name.syn-multi-navigation.shortText": "Multi Synoptics",
-        "IDS.ids-showcase.dashboard.name.real-line-view.shortText": "Real Synoptics",
-        "IDS.ids-showcase.dashboard.name.soc.shortText": "SOC",
-        "IDS.ids-showcase.dashboard.name.mcsyno.shortText": "Macro Commands & Synoptic",
         "IDS.ids-showcase.dashboard.alarmmatrix.shortText": "Alarms Matrix",
         "IDS.ids-showcase.dashboard.name.stations.shortText": "Stations",
         "IDS.ids-showcase.dashboard.name.archive.shortText": "Archives",
-        "IDS.ids-showcase.dashboard.name.alarm-list.shortText": "Alarm List",
         "IDS.ids-showcase.dashboard.name.trends.shortText": "Trends"
     },
     "fr-FR": {
@@ -27,14 +22,9 @@
         "IDS.ids-showcase.dashboard.name.screenwall.shortText": "Mur d'écrans",
         "IDS.ids-showcase.dashboard.name.syn-alarms.shortText": "Synoptiques et alarmes",
         "IDS.ids-showcase.dashboard.name.syn-navigation.shortText": "Synoptiques et navigation",
-        "IDS.ids-showcase.dashboard.name.syn-multi-navigation.shortText": "Multi synoptiques",
-        "IDS.ids-showcase.dashboard.name.real-line-view.shortText": "Synoptiques réels",
-        "IDS.ids-showcase.dashboard.name.soc.shortText": "SOC",
-        "IDS.ids-showcase.dashboard.name.mcsyno.shortText": "Macro-commandes & syno",
         "IDS.ids-showcase.dashboard.alarmmatrix.shortText": "Matrice d'alarmes",
         "IDS.ids-showcase.dashboard.name.stations.shortText": "Stations",
         "IDS.ids-showcase.dashboard.name.archive.shortText": "Archives",
-        "IDS.ids-showcase.dashboard.name.alarm-list.shortText": "Liste d'alarmes",
         "IDS.ids-showcase.dashboard.name.trends.shortText": "Courbes"
     }
 }
