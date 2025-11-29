@@ -65,5 +65,5 @@ please fix build of java project
 mvn spring-boot:run  
 ```
 please fix update api  
-please remove email field and add mobile number   
+please remove email and add mobile 
 ```
