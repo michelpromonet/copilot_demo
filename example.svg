@@ -2,27 +2,23 @@
 <svg xml:space="preserve" viewBox="0 0 700 300" overflow="visible" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.2" x="0px" baseProfile="tiny">
    <g id="background">
       <g>
-         <text x="295.78" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">C</text>
-         <text x="306.06" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">H</text>
-         <text x="318.16" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">A</text>
-         <text x="328.69" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">R</text>
-         <text x="339.4" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">L</text>
-         <text x="348.7" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">E</text>
-         <text x="358.35" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">S</text>
-         <text x="372.71" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">D</text>
-         <text x="384.49" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">E</text>
-         <text x="398.94" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">G</text>
-         <text x="409.96" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">A</text>
-         <text x="420.49" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">U</text>
-         <text x="432.22" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">L</text>
-         <text x="441.53" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">L</text>
-         <text x="450.83" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">E</text>
-         <text x="350.49" font-family="PT Sans" y="120.537" font-size="18px" fill="red">É</text>
-         <text x="360.14" font-family="PT Sans" y="120.537" font-size="18px" fill="red">T</text>
-         <text x="369.27" font-family="PT Sans" y="120.537" font-size="18px" fill="red">O</text>
-         <text x="381.58" font-family="PT Sans" y="120.537" font-size="18px" fill="red">I</text>
-         <text x="386.82" font-family="PT Sans" y="120.537" font-size="18px" fill="red">L</text>
-         <text x="396.12" font-family="PT Sans" y="120.537" font-size="18px" fill="red">E</text>
+         <text x="295.78" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">G</text>
+         <text x="310.06" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">I</text>
+         <text x="318.16" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">T</text>
+         <text x="328.69" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">H</text>
+         <text x="341.4" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">U</text>
+         <text x="353.7" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">B</text>
+         <text x="375.71" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">C</text>
+         <text x="386.49" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">O</text>
+         <text x="398.94" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">P</text>
+         <text x="409.96" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">I</text>
+         <text x="417.49" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">L</text>
+         <text x="427.22" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">O</text>
+         <text x="439.53" font-family="PT Sans" y="98.5371" font-size="18px" fill="red">T</text>
+         <text x="350.49" font-family="PT Sans" y="120.537" font-size="18px" fill="red">D</text>
+         <text x="362.14" font-family="PT Sans" y="120.537" font-size="18px" fill="red">É</text>
+         <text x="372.27" font-family="PT Sans" y="120.537" font-size="18px" fill="red">M</text>
+         <text x="387.58" font-family="PT Sans" y="120.537" font-size="18px" fill="red">O</text>
       </g>
    </g>
 </svg>
