@@ -28,12 +28,11 @@ Working with SVG file example.svg
 ---
 -- Set Edit Mode  --  
 ```
-please group continous characters keeping space character   
+please group continous characters respecting space between words
 ```
 -- Set Agent Mode  --  
 ```
-please create a script that group continous characters keeping space character     
-please run it   
+please create a python script that modify example.svg grouping continous characters respecting space between words
 ```
 
 Code completion
