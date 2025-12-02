@@ -30,19 +30,19 @@ export class SaeTrackPowerSection implements IAnimator {
         const stateValue = data.get(this._STATE_ATTR);
 
         if (stateValue && typeof stateValue.value === "number") {
-        if (stateValue !== undefined) {
-            if (stateValue === 0) {
-                entity.classList.remove(this._UNKNOWN_STATE_CSS_CLASS, this._ON_STATE_CSS_CLASS);
-                entity.classList.add(this._OFF_STATE_CSS_CLASS);
-            } else if (stateValue === 1) {
-                entity.classList.remove(this._UNKNOWN_STATE_CSS_CLASS, this._OFF_STATE_CSS_CLASS);
-                entity.classList.add(this._ON_STATE_CSS_CLASS);
+            if (stateValue !== undefined) {
+                if (stateValue === 0) {
+                    entity.classList.remove(this._UNKNOWN_STATE_CSS_CLASS, this._ON_STATE_CSS_CLASS);
+                    entity.classList.add(this._OFF_STATE_CSS_CLASS);
+                } else if (stateValue === 1) {
+                    entity.classList.remove(this._UNKNOWN_STATE_CSS_CLASS, this._OFF_STATE_CSS_CLASS);
+                    entity.classList.add(this._ON_STATE_CSS_CLASS);
+                } else {
+                    this._setUnknown(entity);
+                }
             } else {
                 this._setUnknown(entity);
             }
-        } else {
-            this._setUnknown(entity);
-        }
         } else {
             this._setUnknown(entity)
         }
