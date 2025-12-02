@@ -10,18 +10,18 @@ please fix translations
 -- Set Edit Mode --  
 ```
 please fix translations  
-please add italian and japonese   
+please add Italian and Japanese   
 ```
 
 Working with SVG file example.svg
 ---
 -- Set Edit Mode  --  
 ```
-please group continous characters respecting space between words
+please group continuous characters respecting space between words
 ```
 -- Set Agent Mode  --  
 ```
-please create a python script that modify example.svg grouping continous characters respecting space between words
+please create a python script that modify example.svg grouping continuous characters respecting space between words
 ```
 
 Code completion
@@ -34,14 +34,14 @@ Code completion
 npx tsx method.ts
 
 ```
-please convert in python  
+please convert to python  
 ```
 
 Doc in Typescript sae-track-power-section.ts
 ---
 ```
 please explain this code   
-please add doc for methods
+please add docs for methods
 (please improve it)
 ```
 
