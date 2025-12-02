@@ -30,17 +30,6 @@ export class SaeTrackPowerSection implements IAnimator {
         const stateValue = data.get(this._STATE_ATTR);
 
         if (stateValue && typeof stateValue.value === "number") {
-            this._updateGraphic(entity, stateValue.value);
-        } else {
-            this._setUnknown(entity)
-        }
-    }
-
-    public invalidate(entity: SVGElement, _entityId: string): void {
-        this._setUnknown(entity);
-    }
-
-    private _updateGraphic(entity: SVGElement, stateValue: number): void {
         if (stateValue !== undefined) {
             if (stateValue === 0) {
                 entity.classList.remove(this._UNKNOWN_STATE_CSS_CLASS, this._ON_STATE_CSS_CLASS);
@@ -54,6 +43,13 @@ export class SaeTrackPowerSection implements IAnimator {
         } else {
             this._setUnknown(entity);
         }
+        } else {
+            this._setUnknown(entity)
+        }
+    }
+
+    public invalidate(entity: SVGElement, _entityId: string): void {
+        this._setUnknown(entity);
     }
 
     private _setUnknown(entity: SVGElement): void {
